@@ -4,7 +4,7 @@
 ### 📑 About me
 - Junior Fullstack Developer
 - UNIFBV Wyden Student (5/9)
-- Learning programming languages and skills for my career
+- Learning programming languages and skills for my career as a developer
 ### 🎮 Leisure Time
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas_scheidt_/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/223os5mrcz6kl636msfysobxa?si=662466807b504463) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198981654964/) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
