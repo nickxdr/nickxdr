@@ -1,5 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nickxdr" alt="nickxdr" /></p>
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, i'm Nicolas Scheidt!
 ### 📑 About me
 - Junior Fullstack Developer
@@ -24,3 +22,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nickxdr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickxdr&hide=TeX&layout=compact)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nickxdr" alt="nickxdr" /></p>
