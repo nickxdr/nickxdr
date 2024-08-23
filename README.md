@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, i'm Nicolas Scheidt!
 ### 📑 About me
-- Junior Web Developer
+- Junior Fullstack Developer
 - UNIFBV Wyden Student (5/9)
 - Learning programming languages and skills for my career as a developer
 ### 🎮 Leisure Time
