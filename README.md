@@ -6,29 +6,20 @@
 
 #
 
-<h3 align="center"> 🎮 Leisure Time </h3>
-
-<div align="center"> 
+<h3> 🎮 Leisure Time </h3>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas_scheidt_/) 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/223os5mrcz6kl636msfysobxa?si=662466807b504463) 
-
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198981654964/) 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-</div>
-
 #
 
-<h3 align="center"> 🌐 Contact Me </h3>
-
-<div align="center"> 
+<h3> 🌐 Contact Me </h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickscheidt2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-scheidt-000b57232/)
-
-</div>
 
 #
 
