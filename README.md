@@ -17,9 +17,9 @@
 
 #
 
-<h2 align="center">🚀💻 Technologies & Tools</h2>
+<h3 align="center">🚀💻 Technologies & Tools</h3>
 
-<h3 align="center">📋 Languages</h3>
+<h4 align="center">📋 Languages</h4>
                                        
 <div align="center"> 
   
@@ -35,7 +35,7 @@
 
 </div>
 
-<h3 align="center">📚 Frameworks, Plataforms and Libraries</h3>
+<h4 align="center">📚 Frameworks, Plataforms and Libraries</h4>
 
 <div align="center">
 
@@ -52,7 +52,7 @@
   
 </div>
 
-<h3 align="center"> 🎨 Design</h3> 
+<h4 align="center"> 🎨 Design</h4> 
 
 <div align="center">
 
