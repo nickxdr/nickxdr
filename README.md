@@ -1,18 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, i'm Nicolas Scheidt!
 ### 📑 About Me
-- Junior Fullstack Developer
-- UNIFBV Wyden Student (7/10)
-- Learning technologies and developing skills for my career as a developer
-
-#
-
-<h3> 🎮 Leisure Time </h3>
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas_scheidt_/) 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/223os5mrcz6kl636msfysobxa?si=662466807b504463) 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198981654964/) 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+- 💻 Junior Fullstack Developer at <a href="https://www.zrobank.com.br/en">Z.ro Bank</a>.
+- 📚 UNIFBV Wyden Computer Science (C.S.) undergraduate. (7/10)
+- 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
+- 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
 
 #
 
