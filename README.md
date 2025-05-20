@@ -69,3 +69,6 @@
 <img width="331px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxdr&title_color=f03a2c&bg_color=00000000&border_color=f03a2c&hide=TeX&layout=compact" />
 
 </div>
+<div align="center">
+  <img width="420px" src="https://github-profile-trophy.vercel.app/?username=nickxdr&theme=monokai&no-bg=true&no-frame=true&column=-1&rank=-?">
+</div>
