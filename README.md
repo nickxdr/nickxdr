@@ -1,16 +1,18 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, i'm Nicolas Scheidt!
+
+<div align="right">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickscheidt2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-scheidt-000b57232/)
+![Profile Views](https://komarev.com/ghpvc/?username=nickxdr&style=for-the-badge&color=f03a2c)
+
+</div>
+
 ### 📑 About Me
 - 💻 Junior Fullstack Developer at <a href="https://www.zrobank.com.br/en">Z.ro Bank</a>.
 - 📚 UNIFBV Wyden Computer Science (C.S.) undergraduate. (7/10)
 - 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
 - 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
-
-#
-
-<h3> 🌐 Contact Me </h3>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickscheidt2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-scheidt-000b57232/)
 
 #
 
@@ -63,8 +65,7 @@
 
 <div align="center" justify-content: space-between;>
   
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=nickxdr&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
-<img width="331px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxdr&hide=TeX&layout=compact" />
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nickxdr" alt="nickxdr" /></p>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=nickxdr&theme=shadow_red&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
+<img width="331px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxdr&theme=shadow_red&hide=TeX&layout=compact" />
 
 </div>
