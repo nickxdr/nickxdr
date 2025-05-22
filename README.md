@@ -63,6 +63,8 @@
 
 <h3 align="center"> ⚡ GitHub Stats</h3>
 
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center" justify-content: space-between;>
   
 <img width="420px" src="https://github-readme-stats.vercel.app/api?username=nickxdr&title_color=f03a2c&bg_color=00000000&border_color=f03a2c&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
