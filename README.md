@@ -9,8 +9,8 @@
 </div>
 
 ### 📑 About Me
-- 💻 Junior Fullstack Developer at <a href="https://www.zrobank.com.br/en">Z.ro Bank</a>.
-- 📚 UNIFBV Wyden Computer Science (C.S.) undergraduate. (9/10)
+- 💻 Junior Fullstack Developer.
+- 📚 UNIFBV Wyden Computer Science (C.S.) graduate.
 - 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
 - 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
 
