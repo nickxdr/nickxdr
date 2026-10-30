@@ -8,18 +8,18 @@
 
 </div>
 
-### 📑 About Me
+### ðŸ“‘ About Me
 
-- 💻 Junior Fullstack Developer.
-- 📚 UNIFBV Wyden Computer Science (C.S.) graduate.
-- 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
-- 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
+- ðŸ’» Junior Fullstack Developer.
+- ðŸ“š UNIFBV Wyden Computer Science (C.S.) graduate.
+- ðŸ‘¨â€ðŸ’» I'm currently learning technologies and developing skills for my career as a developer.
+- ðŸŽ® In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! ðŸ¦).
 
 #
 
-<h3 align="center">🚀💻 Technologies & Tools</h3>
+<h3 align="center">ðŸš€ðŸ’» Technologies & Tools</h3>
 
-<h4 align="center">📋 Languages</h4>
+<h4 align="center">ðŸ“‹ Languages</h4>
                                        
 <div align="center"> 
   
@@ -30,12 +30,13 @@
 
 ![C](https://img.shields.io/badge/C-3643A7.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2b%2b-3643A7.svg?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
-<h4 align="center">📚 Frameworks, Plataforms and Libraries</h4>
+<h4 align="center">ðŸ“š Frameworks, Plataforms and Libraries</h4>
 
 <div align="center">
 
@@ -52,7 +53,7 @@
 
 </div>
 
-<h4 align="center">🤖 AI Skills</h4>
+<h4 align="center">ðŸ¤– AI Skills</h4>
 
 <div align="center">
 
@@ -64,7 +65,7 @@
 
 #
 
-<h3 align="center"> ⚡ GitHub Stats</h3>
+<h3 align="center"> âš¡ GitHub Stats</h3>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
