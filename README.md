@@ -8,21 +8,21 @@
 
 </div>
 
-### ðŸ“‘ About Me
+### 📑 About Me
 
-- ðŸ’» Junior Fullstack Developer.
-- ðŸ“š UNIFBV Wyden Computer Science (C.S.) graduate.
-- ðŸ‘¨â€ðŸ’» I'm currently learning technologies and developing skills for my career as a developer.
-- ðŸŽ® In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! ðŸ¦).
+- 💻 Junior Fullstack Developer.
+- 📚 UNIFBV Wyden Computer Science (C.S.) graduate.
+- 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
+- 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
 
 #
 
-<h3 align="center">ðŸš€ðŸ’» Technologies & Tools</h3>
+<h3 align="center">🚀💻 Technologies & Tools</h3>
 
-<h4 align="center">ðŸ“‹ Languages</h4>
+<h4 align="center">📋 Languages</h4>
                                        
 <div align="center"> 
-  
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,7 +36,7 @@
 
 </div>
 
-<h4 align="center">ðŸ“š Frameworks, Plataforms and Libraries</h4>
+<h4 align="center">📚 Frameworks, Plataforms and Libraries</h4>
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-<h4 align="center">ðŸ¤– AI Skills</h4>
+<h4 align="center">🤖 AI Skills</h4>
 
 <div align="center">
 
@@ -65,16 +65,8 @@
 
 #
 
-<h3 align="center"> âš¡ GitHub Stats</h3>
+<h3 align="center"> ⚡ GitHub Stats</h3>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center" justify-content: space-between;>
-  
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=nickxdr&title_color=f03a2c&bg_color=00000000&border_color=f03a2c&show_icons=true&count_private=true&show_icons=true&include_all_commits=true" />
-<img width="331px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickxdr&title_color=f03a2c&bg_color=00000000&border_color=f03a2c&hide=TeX&layout=compact" />
-
-</div>
-<div align="center">
-  <img width="420px" src="https://github-profile-trophy.vercel.app/?username=nickxdr&theme=monokai&no-bg=true&no-frame=true&column=-1&rank=-?">
-</div>
