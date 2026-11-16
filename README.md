@@ -10,7 +10,7 @@
 
 ### 📑 About Me
 
-- 💻 Junior Fullstack Developer.
+- 💻 Fullstack Developer.
 - 📚 UNIFBV Wyden Computer Science (C.S.) graduate.
 - 👨‍💻 I'm currently learning technologies and developing skills for my career as a developer.
 - 🎮 In my free time, i like playing videogames and watching sports (Fun fact: I support Sport Recife! 🦁).
